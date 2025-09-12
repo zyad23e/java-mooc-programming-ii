@@ -17,7 +17,7 @@ I’m completing this in **Pro Mode** (no hints, all exercises done independentl
 
 ## Progress
 
-- [x] *Part 8** – Completed ✅  
+- [x] *Part 8* – Completed ✅  
 - [ ] *Part 9* – In Progress
 - [ ] *Part 10* –  
 - [ ] *Part 11* –  
