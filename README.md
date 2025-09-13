@@ -18,8 +18,8 @@ I’m completing this in **Pro Mode** (no hints, all exercises done independentl
 ## Progress
 
 - [x] *Part 8* – Completed ✅  
-- [ ] *Part 9* – In Progress
-- [ ] *Part 10* –  
+- [x] *Part 9* – Completed ✅
+- [ ] *Part 10* – In Progress
 - [ ] *Part 11* –  
 - [ ] *Part 12* –  
 - [ ] *Part 13* –  
