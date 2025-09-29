@@ -23,7 +23,7 @@ I’m completing this in **Pro Mode** (no hints, all exercises done independentl
 - [x] *Part 11* – Completed ✅
 - [x] *Part 12* – Completed ✅
 - [x] *Part 13* – Completed ✅
-- [ ] *Part 14* – In Progress
+- [x] *Part 14* – Completed ✅
 
 ---
 
